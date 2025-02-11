@@ -1,0 +1,4 @@
+*.avi
+*.wav
+/raw
+data/Data_processed/CsvDataTS_raw/53_2_Mic_nominal_srate16000.csv
